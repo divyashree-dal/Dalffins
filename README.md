@@ -38,13 +38,6 @@ to earn from their Culinary skills.
 * Group03_Dalffins
 
 
-
-## Git repository link
-
-* https://github.com/akshay-dal/Group03_Dalffins
-
-
-
 ## Deployed Application link
 
 * https://dalffins.herokuapp.com/
