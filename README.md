@@ -35,7 +35,7 @@ to earn from their Culinary skills.
 
 ## Project Name
 
-* Group03_Dalffins
+* Dalffins
 
 
 ## Deployed Application link
